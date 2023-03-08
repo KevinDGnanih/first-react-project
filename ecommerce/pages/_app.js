@@ -1,5 +1,5 @@
 import React from 'react';
-import Login from '../components/Login';
+
 import { Toaster } from 'react-hot-toast';
 
 import { Layout } from '../components';
